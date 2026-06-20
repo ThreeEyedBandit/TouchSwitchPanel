@@ -1,0 +1,16 @@
+{
+  "codename": "Font34",
+  "ttf_path": "/assets/Qilka-Bold copy.otf",
+  "bin_path": "/assets\\ui_font_Font34.bin",
+  "c_path": "/assets\\ui_font_Font34.c",
+  "cfg_path": "/assets\\ui_font_Font34.fcfg",
+  "size": 34,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

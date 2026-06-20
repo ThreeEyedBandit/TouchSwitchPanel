@@ -1,0 +1,13 @@
+SET(SOURCES ui_Page1.c
+    ui_Page2.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c
+    fonts/ui_font_Font16.c
+    fonts/ui_font_Font20.c
+    fonts/ui_font_Font34.c
+    fonts/ui_font_Font38.c
+    fonts/ui_font_Font50.c)
+
+add_library(ui ${SOURCES})

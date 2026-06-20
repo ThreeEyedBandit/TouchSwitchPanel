@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "TouchPanel"
+		},
+		{
+			"name": "8xRelayIO",
+			"path": "8xRelayIO"
+		}
+	],
+	"settings": {}
+}
